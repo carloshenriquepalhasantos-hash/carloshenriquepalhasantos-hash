@@ -1,47 +1,54 @@
-# 🏋️‍♂️ TreinoLivre | Plataforma Inteligente de Treino & Nutrição
+# Hi there, I'm Carlos Henrique! 👋
 
 <p align="center">
-  <b>Uma solução mobile avançada e multiplataforma de fitness com arquitetura offline-first, assistentes de Inteligência Artificial integrados e ecossistema em nuvem.</b>
+  <b>Product Designer & Software Developer | Mobile, Web & AI Solutions</b>
+</p>
+
+<p align="center">
+  Desenvolvedor de Software e Designer de Produtos Digitais focado em criar aplicações completas, escaláveis e focadas na experiência do usuário. Combinando arquitetura limpa, ecossistemas *Offline-First* e integração de Inteligência Artificial.
 </p>
 
 ---
 
-## 🚀 Sobre o Projeto
-O **TreinoLivre** foi desenvolvido para ser uma ferramenta completa de acompanhamento para atletas e alunos. O aplicativo combina um planejamento de treinos e dietas altamente customizável gerado por Inteligência Artificial, persistência de dados local segura e autenticação moderna multi-provedor.
+## 🚀 Sobre Mim
+- 📱 **Mobile & Cross-Platform**: Especialista no desenvolvimento de aplicações com **Flutter & Dart**, incluindo ajustes finos e configurações no **código raiz do Android**.
+- 🤖 **Inteligência Artificial**: Integração avançada de LLMs (**Google Gemini API** e **ChatGPT / OpenAI**) para criação de assistentes e automações em tempo real.
+- 💾 **Arquitetura Offline-First**: Experiência em persistência local inteligente utilizando **SQLite (`sqflite`)** combinada com sincronização em nuvem via **Firebase**.
+- 🎨 **Product & UI/UX Design**: 3+ anos de atuação no ramo de design, unindo estética marcante (Dark Mode, Design Systems) com navegação fluida.
+- 🌐 **Web & Backend**: Construção de interfaces web modernas e automações com **Python, React, TypeScript e Docker**.
 
 ---
 
-## 🛠️ Tecnologias e Arquitetura
+## 🛠️ Stack Técnica & Ferramentas
 
-### **Frontend & Mobile (Flutter & Dart)**
-* **Cross-Platform**: Desenvolvimento otimizado para Android, iOS e Web.
-* **Código Raiz do Android**: Configurações avançadas de build, permissões nativas e otimização de performance no lado nativo.
-* **Design & UI/UX**: Interfaces modernas desenvolvidas com foco em Dark Mode, usabilidade fluida e design system próprio.
+### **Mobile & Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Persistência de Dados & Arquitetura Offline-First**
-* **SQLite (sqflite)**: Banco de dados local robusto para garantir funcionamento completo do app mesmo sem conexão com a internet.
-* **Sincronização em Nuvem**: Gestão de estado inteligente integrada com **Firebase Firestore**.
+### **Backend, Banco de Dados & Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **Autenticação Multi-Provedor (Firebase Auth)**
-* Suporte a login seguro e integrado com múltiplos provedores:
-  * 📧 E-mail e Senha
-  * 🌐 Google (Gmail)
-  * 🔵 Facebook Login
-  * 📸 Instagram OAuth / Autenticação social
-
-### **Inteligência Artificial Integrada**
-* **Google Gemini API** & **ChatGPT (OpenAI)**: Integração com múltiplos modelos de IA nos bastidores para gerar fichas de treino dinâmicas, dietas personalizadas baseadas em calorias e planos de evolução 360°.
-
----
-
-## 📱 Principais Funcionalidades
-* **Diagnóstico 360°**: Questionário inteligente interativo que molda o treino e a dieta do usuário de acordo com o nível, objetivo e restrições.
-* **Fichas de Treino por Dia**: Gestão de séries, repetições, contagem de descanso com timer integrado e busca automática de vídeos de execução correta no YouTube.
-* **Dieta Personalizada**: Controle de refeições diárias, horários, lista de compras/alimentos e opções de substituição flexíveis.
-* **Acompanhamento Offline**: Sincronização automática dos dados locais com o servidor assim que a conexão é restabelecida.
+### **Inteligência Artificial & Autenticação**
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/ChatGPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OAuth](https://img.shields.io/badge/Auth-Gmail%20%7C%20Facebook%20%7C%20Instagram-blue?style=for-the-badge)
 
 ---
 
-## 👨‍💻 Autor
-Desenvolvido por **Carlos Henrique Palha Santos**  
-* Product Designer & Software Developer
+## 📌 Projeto em Destaque
+
+### 🏋️‍♂️ [TreinoLivre - App de Treino & Dieta com IA](https://github.com/carloshenriquepalhasantos-hash/treinolivre)
+Plataforma mobile/web completa de fitness com diagnóstico 360°, geração automática de treinos e dietas via IA (Gemini/ChatGPT), banco de dados local **SQLite** com sincronização **Firebase** e suporte a múltiplos métodos de autenticação social (Google, Facebook, Instagram).
+
+---
+
+## 📬 Vamos conversar?
+- 💼 **LinkedIn**: [**]
+- 🎨 **instragram**: [(https://www.instagram.com/carloshenriquepalha/)]
+- 📧 **E-mail**: [carloshenriquepalhasantos.com.br]
